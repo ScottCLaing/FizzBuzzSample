@@ -1,0 +1,8 @@
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\bin\Debug\FizzBuzzCaller.exe.config
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\bin\Debug\FizzBuzzCaller.exe
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\bin\Debug\FizzBuzzCaller.pdb
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\bin\Debug\FizzBuzzLib.dll
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\bin\Debug\FizzBuzzLib.pdb
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\obj\Debug\FizzBuzzCaller.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\obj\Debug\FizzBuzzCaller.exe
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzCaller\obj\Debug\FizzBuzzCaller.pdb

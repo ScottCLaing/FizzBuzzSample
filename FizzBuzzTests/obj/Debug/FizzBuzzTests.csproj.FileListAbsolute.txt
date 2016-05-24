@@ -1,0 +1,7 @@
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\bin\Debug\FizzBuzzLib.dll
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\bin\Debug\FizzBuzzLib.pdb
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+c:\users\scott\documents\visual studio 2012\Projects\FizzBuzzLib\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
